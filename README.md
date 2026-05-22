@@ -13,7 +13,7 @@ It shows my GitHub account, my CV, and my deployment to GitHub Pages.
 
 ## 1. GitHub Account Evidence
 **Student Email**: 240696255@mycput.ac.za
-**GitHub Profile**: [Link to your GitHub profile]
+**GitHub Profile**: https://github.com/La-eeq
 
 ### Reflection: Creating my GitHub Account
 **Situation**: I needed a professional online profile to share with potential employers for my WIL placement.  
