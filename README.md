@@ -8,7 +8,7 @@ It shows my GitHub account, my CV, and my deployment to GitHub Pages.
 
 ### Quick Links
 - https://github.com/La-eeq/digital-portfolio/blob/main/CV
-- [[[Live Portfolio on GitHub Pages]([Paste your GitHub Pages link here once deployed])](https://la-eeq.github.io/digital-portfolio/)]
+- (https://la-eeq.github.io/digital-portfolio/)]
 ---
 
 ## 1. GitHub Account Evidence
@@ -35,7 +35,7 @@ My full CV is available in the `CV.md` file in this repository. It includes my e
 ---
 
 ## 3. GitHub Pages Deployment
-**Live Link**: [Paste your GitHub Pages link here]
+**Live Link**: [(https://la-eeq.github.io/digital-portfolio/)](https://la-eeq.github.io/digital-portfolio/)
 
 ### Reflection: Using GitHub Pages
 **Situation**: I needed to make my portfolio publicly accessible.
