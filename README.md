@@ -7,7 +7,7 @@ It shows my GitHub account, my CV, and my deployment to GitHub Pages.
 ---
 
 ### Quick Links
-- CV
+- https://github.com/La-eeq/digital-portfolio/blob/main/CV
 - [Live Portfolio on GitHub Pages]([Paste your GitHub Pages link here once deployed])
 ---
 
